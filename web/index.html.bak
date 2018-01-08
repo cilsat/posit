@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>WMS Tiled</title>
+    <link rel="stylesheet" href="https://openlayers.org/en/v4.6.4/css/ol.css" type="text/css">
+    <script src="https://openlayers.org/en/v4.6.4/build/ol.js"></script>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <script src='js/ehp.js'></script>
+  </body>
+</html>
